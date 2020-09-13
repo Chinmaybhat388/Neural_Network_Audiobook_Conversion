@@ -6,14 +6,14 @@ In this case, a conversion is measured by a new purchase of audiobook.
 
 # The features available in the dataset :
 -ID\
--Book
--length(mins) overall
--Book length(mins) avg
--Price_avg
--Price_overall
--Review	
--Review 10/10	
--Completion	
--Minutes listened	
--Support requests	
+-Book\
+-length(mins) overall\
+-Book length(mins) avg\
+-Price_avg\
+-Price_overall\
+-Review	\
+-Review 10/10\	
+-Completion	\
+-Minutes listened\	
+-Support requests	\
 -Last visited minus purchasse date	Target
