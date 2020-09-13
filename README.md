@@ -5,7 +5,7 @@ A further 6 months of data was collected to check if a customer would convert or
 In this case, a conversion is measured by a new purchase of audiobook.
 
 # The features available in the dataset :
--ID
+-ID\
 -Book
 -length(mins) overall
 -Book length(mins) avg
