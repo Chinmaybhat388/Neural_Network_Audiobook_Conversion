@@ -11,7 +11,7 @@ In this case, a conversion is measured by a new purchase of audiobook.
 -Price_avg - Average price of books\
 -Price_overall - Total proce of books \
 -Review - Is there a review?	\
--Review 10/10 - Review score out of 10 \	
+-Review 10/10 - Review score out of 10\	
 -Completion - Percentage completed	\
 -Minutes listened  - Minutes listened\	
 -Support requests - Times interacted with support. Indicator of engagement with the platform	\
